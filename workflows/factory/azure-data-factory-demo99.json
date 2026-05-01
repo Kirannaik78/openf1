@@ -1,0 +1,15 @@
+{
+	"name": "azure-data-factory-demo99",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d46b8a9f-42e7-4726-8375-8751ad4bdbbf",
+		"tenantId": "7029b176-6b5a-4036-8733-59ceee9a72d1"
+	}
+}
