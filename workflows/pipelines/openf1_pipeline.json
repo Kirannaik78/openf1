@@ -1,0 +1,12 @@
+{
+    "name":"Openf1_ETL_Pipeline",
+    "properties": {
+        "description": "openf1 data copy and transformation pipeline",
+        "parameters": {
+            "testparam": {
+                "type": "String",
+                "defaultValue": "test"
+            }
+        }
+    }
+}
